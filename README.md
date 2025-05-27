@@ -18,6 +18,6 @@
   `https://docs.stacksync.com/guides/two-way-sync-salesforce-and-postgres/create-a-postgres-database-with-supabase-free-forever`
 
 ## step 3:
-- Follow the step as shown in given link
+- For makeing CRUD operation, Follow these step as shown in given bellow link
 
   `https://blog.theinfosecguy.xyz/building-a-crud-api-with-fastapi-and-supabase-a-step-by-step-guide` 
