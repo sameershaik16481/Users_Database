@@ -1,0 +1,2 @@
+url = "https://nxtxmjndbbrquobqgzvo.supabase.co"
+api = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im54dHhtam5kYmJycXVvYnFnenZvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDgzMzU5ODIsImV4cCI6MjA2MzkxMTk4Mn0.WOFs8k0fYsxEp1PrHH1itnrTAwnaBwU5cORk8E4Sxy8"
